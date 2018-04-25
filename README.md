@@ -13,3 +13,4 @@ sudo pip install gTTS
 # To do:
 * Make more visually appealing
 * Rewrite using classes
+* Insert advantage button for rolling the same dice twice
